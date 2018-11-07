@@ -18,6 +18,7 @@ call plug#end()
 set fenc=utf-8
 set nobackup
 set noswapfile
+set noundofile
 set autoread
 set hidden
 set showcmd
